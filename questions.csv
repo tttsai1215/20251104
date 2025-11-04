@@ -1,0 +1,11 @@
+question,opA,opB,opC,opD,correct
+哪個函數通常用來設定畫布的背景顏色，並在draw()中清除舊畫面？,background(),clear(),canvasColor(),erase(),A
+哪個函數用於設定圖形外框（邊線）的顏色？,fill(),borderColor(),stroke(),lineColor(),C
+如果不希望圖形有任何外框（邊線），應該使用哪個函數？,stroke(0),noStroke(),border(false),strokeNone(),B
+p5.js 中，哪個變數儲存了畫布的寬度？,width,canvas.width,getWidth(),width(),A
+p5.js 中，哪個變數儲存了畫布的高度？,height(),getHeight,canvas.height,height,D
+哪個函數用於繪製圓形或橢圓形？,circle(),ellipse(),arc(),oval(),B
+哪個函數用於繪製矩形或正方形？,square(),quad(),box(),rect(),D
+哪個函數用於繪製一條直線？,draw_line(),path(),line(),stroke(),C
+哪個變數代表滑鼠當前的 X 座標？,mouse.x,mouseX,getMouseX(),cursorX,B
+哪個函數用於改變圖形外框（邊線）的粗細？,strokeWidth(),lineWeight(),borderSize(),strokeWeight(),D
